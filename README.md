@@ -1,1 +1,1 @@
-# hard_work
+# answering some advanced questions based on sql
